@@ -13,3 +13,18 @@ C:\Users\45922978810\Desktop\Exercicios-backend-aula dia 31\obj\Debug\net7.0\ref
 C:\Users\45922978810\Desktop\Exercicios-backend-aula dia 31\obj\Debug\net7.0\Exercicios-backend-aula dia 31.pdb
 C:\Users\45922978810\Desktop\Exercicios-backend-aula dia 31\obj\Debug\net7.0\Exercicios-backend-aula dia 31.genruntimeconfig.cache
 C:\Users\45922978810\Desktop\Exercicios-backend-aula dia 31\obj\Debug\net7.0\ref\Exercicios-backend-aula dia 31.dll
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\bin\Debug\net7.0\Exercicios-backend-aula dia 31.exe
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\bin\Debug\net7.0\Exercicios-backend-aula dia 31.deps.json
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\bin\Debug\net7.0\Exercicios-backend-aula dia 31.runtimeconfig.json
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\bin\Debug\net7.0\Exercicios-backend-aula dia 31.dll
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\bin\Debug\net7.0\Exercicios-backend-aula dia 31.pdb
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\obj\Debug\net7.0\Exercicios-backend-aula dia 31.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\obj\Debug\net7.0\Exercicios-backend-aula dia 31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\obj\Debug\net7.0\Exercicios-backend-aula dia 31.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\obj\Debug\net7.0\Exercicios-backend-aula dia 31.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\obj\Debug\net7.0\Exercicios-backend-aula dia 31.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\obj\Debug\net7.0\Exercicios-backend-aula dia 31.dll
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\obj\Debug\net7.0\refint\Exercicios-backend-aula dia 31.dll
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\obj\Debug\net7.0\Exercicios-backend-aula dia 31.pdb
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\obj\Debug\net7.0\Exercicios-backend-aula dia 31.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\exercicios-c-dia-31-03-2023\obj\Debug\net7.0\ref\Exercicios-backend-aula dia 31.dll

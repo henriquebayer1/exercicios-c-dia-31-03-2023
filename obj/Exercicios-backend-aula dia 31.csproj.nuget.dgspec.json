@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\45922978810\\Desktop\\Exercicios-backend-aula dia 31\\Exercicios-backend-aula dia 31.csproj": {}
+    "C:\\Users\\Usuário\\Desktop\\exercicios-c-dia-31-03-2023\\Exercicios-backend-aula dia 31.csproj": {}
   },
   "projects": {
-    "C:\\Users\\45922978810\\Desktop\\Exercicios-backend-aula dia 31\\Exercicios-backend-aula dia 31.csproj": {
+    "C:\\Users\\Usuário\\Desktop\\exercicios-c-dia-31-03-2023\\Exercicios-backend-aula dia 31.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\45922978810\\Desktop\\Exercicios-backend-aula dia 31\\Exercicios-backend-aula dia 31.csproj",
+        "projectUniqueName": "C:\\Users\\Usuário\\Desktop\\exercicios-c-dia-31-03-2023\\Exercicios-backend-aula dia 31.csproj",
         "projectName": "Exercicios-backend-aula dia 31",
-        "projectPath": "C:\\Users\\45922978810\\Desktop\\Exercicios-backend-aula dia 31\\Exercicios-backend-aula dia 31.csproj",
-        "packagesPath": "C:\\Users\\45922978810\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\45922978810\\Desktop\\Exercicios-backend-aula dia 31\\obj\\",
+        "projectPath": "C:\\Users\\Usuário\\Desktop\\exercicios-c-dia-31-03-2023\\Exercicios-backend-aula dia 31.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuário\\Desktop\\exercicios-c-dia-31-03-2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\45922978810\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

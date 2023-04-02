@@ -66,22 +66,14 @@
 
 // EXERCICIO 3 -
 
-Console.WriteLine($"Informe o raio da circunferencia do circulo:");
-double raio = float.Parse(Console.ReadLine());
+// Console.WriteLine($"Informe o raio da circunferencia do circulo:");
+// double raio = float.Parse(Console.ReadLine());
 
-double diametro = (2 * raio);
-double comprimento = (2 * Math.PI * Math.Pow(raio, 2));
-double areaDaCircunferencia = (Math.PI * Math.Pow(raio, 2));
+// double diametro = (2 * raio);
+// double comprimento = (2 * Math.PI * Math.Pow(raio, 2));
+// double areaDaCircunferencia = (Math.PI * Math.Pow(raio, 2));
 
-Console.WriteLine($"O seu diametro e de: {Math.Round(diametro,2)} o seu comprimento e de: {Math.Round(comprimento,2)} e sua area da circunferencia e de: {Math.Round(areaDaCircunferencia,2)}");
-
-
-
-
-
-
-
-
+// Console.WriteLine($"O seu diametro e de: {Math.Round(diametro,2)} o seu comprimento e de: {Math.Round(comprimento,2)} e sua area da circunferencia e de: {Math.Round(areaDaCircunferencia,2)}");
 
 
 
@@ -95,4 +87,82 @@ Console.WriteLine($"O seu diametro e de: {Math.Round(diametro,2)} o seu comprime
 
 
 // EXERCICIO 4 -
+
+
+// int sim = 0;
+// int nao = 0;
+
+// Console.WriteLine($"Reponda as seguintes perguntas com s (sim) ou n (nao):");
+
+
+// Console.WriteLine($"Telefonou para a vítima?");
+// string R1 = Console.ReadLine().ToLower();
+
+// Console.WriteLine($"Esteve no local do crime?");
+// string R2 = Console.ReadLine().ToLower();
+
+// Console.WriteLine($"Mora perto da vítima?");
+// string R3 = Console.ReadLine().ToLower();
+
+
+// Console.WriteLine($"Devia para a vítima?");
+// string R4 = Console.ReadLine().ToLower();
+
+
+// Console.WriteLine($"Já trabalhou com a vítima?");
+// string R5 = Console.ReadLine().ToLower();
+
+// if(R1 == "s")
+// {sim += 1;}
+
+// if(R2 == "s")
+// {sim += 1;}
+
+// if(R3 == "s")
+// {sim += 1;}
+
+// if(R4 == "s")
+// {sim += 1;}
+
+// if(R5 == "s")
+// {sim += 1;}
+
+
+// if(sim == 2)
+// {Console.WriteLine($"É Suspeito");
+// }
+// else if(sim == 3 || sim == 4)
+// {Console.WriteLine($"É Cumplice");
+// }
+// else if (sim == 5)
+// {Console.WriteLine($"É Culpado");
+// }
+// else {Console.WriteLine($"É Inocente");
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // EXERCICIO 5 -
+
+
+Console.WriteLine($"escreva uma letra do alfabeto:");
+string L = Console.ReadLine().ToLower();
+
+
+if(L == "a" || L =="e" || L =="i" || L =="o" || L =="u")
+{Console.WriteLine($"{L} É uma vogal");
+}
+else{Console.WriteLine($"{L} É uma consoante");
+}
